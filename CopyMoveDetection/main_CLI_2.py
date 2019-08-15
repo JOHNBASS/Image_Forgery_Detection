@@ -14,4 +14,4 @@ Main Code
 # CopyMoveDetection.detect('../testcase_image/', '01_barrier_copy.png', '../testcase_result/', blockSize=32)
 
 # example
-CopyMoveDetection.detect('Source/test_images/', 'horse_fake_copy.png', 'Source/output_images/', blockSize=16)
+CopyMoveDetection.detect('Source/test_images/', 'cattle_copy_3.png', 'Source/output_images/', blockSize=32)
